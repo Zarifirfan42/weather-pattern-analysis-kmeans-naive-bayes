@@ -1,0 +1,10 @@
+# Windows
+desktop.ini
+Thumbs.db
+
+# R session artifacts
+.Rhistory
+.RData
+.Rproj.user/
+*.Rproj.user
+.Ruserdata
